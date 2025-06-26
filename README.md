@@ -44,6 +44,7 @@ https://public.tableau.com/app/profile/leyla.efe/viz/CitiBikes_17509249164740/St
 
 ## Final Presentation
 Summary of insights and recommendations presented in:
+
 [Download PowerPoint Presentation] (https://raw.githubusercontent.com/YLMustafa/citi_bikes/refs/heads/main/Citi_Bikes.pptx)
 
 *Visualisations and analyses presented here support understanding the earliest Citi Bike usage patterns, informing system development and urban mobility planning.*
