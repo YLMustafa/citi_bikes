@@ -18,7 +18,8 @@ Citi Bike launched in New York City in 2013, becoming one of the largest bike-sh
   - Rider demographics (age)
   - Trip details (start hour, trip duration)
   - Start station geolocation (latitude, longitude)
-- Data sourced from Citi Bike’s official 2013 trip logs https://www.kaggle.com/datasets/ryanmcummings/citi-bike-data/data. 
+- Data sourced from Citi Bike’s official 2013 trip logs: https://www.kaggle.com/datasets/ryanmcummings/citi-bike-data/data.
+- GEOJSON file sourced from: https://data.cityofnewyork.us/City-Government/2020-Neighborhood-Tabulation-Areas-NTAs-/9nt8-h7nd/about_data
 - Data size: approximately 9.71 MB, containing 50000 trip records.
 
 ## Tools Used
@@ -38,9 +39,10 @@ Citi Bike launched in New York City in 2013, becoming one of the largest bike-sh
 ## Tableau Dashboards
 Interactive dashboards showcasing clustering results and spatial trip patterns are available here:
 https://public.tableau.com/app/profile/leyla.efe/viz/CitiBikes_17509249164740/Story1?publish=yes 
+*This storyboard highlights only the key steps and insights most relevant to the final results. While the full analysis included additional exploration and testing, this dashboard focuses on the findings that had the greatest impact on shaping the conclusions.*
 
 ## Final Presentation
 Summary of insights and recommendations presented in:
 [Insert link or path to PowerPoint or PDF presentation]
 
-*Note: Visualisations and analyses presented here support understanding the earliest Citi Bike usage patterns, informing system development and urban mobility planning.*
+*Visualisations and analyses presented here support understanding the earliest Citi Bike usage patterns, informing system development and urban mobility planning.*
