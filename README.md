@@ -38,7 +38,7 @@ Citi Bike launched in New York City in 2013, becoming one of the largest bike-sh
 
 ## Tableau Dashboards
 Interactive dashboards showcasing clustering results and spatial trip patterns are available here:
-https://public.tableau.com/app/profile/leyla.efe/viz/CitiBikes_17509249164740/Story1?publish=yes 
+https://public.tableau.com/app/profile/leyla.efe/viz/CitiBikes_17509249164740/Story1
 
 *This storyboard highlights only the key steps and insights most relevant to the final results. While the full analysis included additional exploration and testing, this dashboard focuses on the findings that had the greatest impact on shaping the conclusions.*
 
